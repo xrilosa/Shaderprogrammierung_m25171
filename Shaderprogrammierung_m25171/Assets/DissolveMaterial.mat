@@ -28,7 +28,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _DissolveAmount: 0.323
+    - _DissolveAmount: 1
     - _Metallic: 0.75
     - _ShineFalloff: 0.0298
     - _ShineRange: 0.0138
